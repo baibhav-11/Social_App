@@ -1,0 +1,123 @@
+[main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-1] INFO  com.websocket.WSService  - Sending message
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-1] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-1] INFO  com.websocket.WSController  - Request Broadcasted
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-1] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-1] INFO  com.websocket.WSController  - Request Broadcasted
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-1] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-1] INFO  com.websocket.WSController  - Request Broadcasted
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-1] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-1] INFO  com.websocket.WSController  - Request Broadcastedcom.websocket.dto.messageComment@34914575
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - Request Broadcasted com.websocket.dto.messageComment@48227a65
+  [http-nio-8080-exec-5] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-5] INFO  com.websocket.WSController  - Request Broadcasted com.websocket.dto.messageComment@c5fadbd
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - Request Broadcasted 
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - 
+"id":1
+"user_id":1
+"name":new update1
+"detail":xx
+"created_at":2022-02-10T12:00:02.000000Z
+"updated_at":2022-02-10T12:02:15.000000Z
+"comments":[com.websocket.dto.Comment@50a74ca]
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - Request Broadcasted 
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - 
+"id":1
+"user_id":1
+"name":new update1
+"detail":xx
+"created_at":2022-02-10T12:00:02.000000Z
+"updated_at":2022-02-10T12:02:15.000000Z
+"comments":[
+"id"0
+"post_id":0
+"user_id":0
+"parent_id":0
+"comment":null
+"created_at":null
+"updated_at":null
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - 
+"id":1
+"user_id":1
+"name":new update1
+"detail":xx
+"created_at":2022-02-10T12:00:02.000000Z
+"updated_at":2022-02-10T12:02:15.000000Z
+"comments":[
+"id"0
+"post_id":0
+"user_id":0
+"parent_id":0
+"comment":null
+"created_at":null
+"updated_at":null
+]
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - Request Broadcasted 
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - 
+"id":1
+"user_id":1
+"name":new update1
+"detail":xx
+"created_at":2022-02-10T12:00:02.000000Z
+"updated_at":2022-02-10T12:02:15.000000Z
+"comments":[
+"id"[com.websocket.dto.Comment@16009bf8]
+"post_id":0
+"user_id":0
+"parent_id":0
+"comment":null
+"created_at":null
+"updated_at":null
+]
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - Request Broadcasted 
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-1] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-1] TRACE com.websocket.WSService  - 
+"id":1
+"user_id":1
+"name":new update1
+"detail":xx
+"created_at":2022-02-10T12:00:02.000000Z
+"updated_at":2022-02-10T12:02:15.000000Z
+"comments":[
+"id"[com.websocket.dto.Comment@3095dc4f]
+"post_id":0
+"user_id":0
+"parent_id":0
+"comment":null
+"created_at":null
+"updated_at":null
+]
+  [http-nio-8080-exec-1] INFO  com.websocket.WSController  - Request Broadcasted 
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-1] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-1] TRACE com.websocket.WSService  - com.websocket.dto.ResponseComment@7c0a640c
+  [http-nio-8080-exec-1] INFO  com.websocket.WSController  - Request Broadcasted 
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-2] TRACE com.websocket.WSService  - [com.websocket.dto.Comment@2066c057]
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - Request Broadcasted 
+  [main] INFO  com.websocket.WebSocketConfig  - Connected to Spring WebSocket
+  [http-nio-8080-exec-2] INFO  com.websocket.WSService  - Sending upcoming request to broadcast
+  [http-nio-8080-exec-2] TRACE com.websocket.WSService  - com.websocket.dto.ResponseComment@13c9c2a2
+  [http-nio-8080-exec-2] INFO  com.websocket.WSController  - Request Broadcasted 
+  
