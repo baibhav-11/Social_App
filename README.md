@@ -116,6 +116,16 @@ clicks on the button of reset password then the user will be redirected to
 reset password page where after user can reset his/her password.
 
 
+# Contributing
+Contributions are welcome! If you would like to contribute to this project, please follow these guidelines:
+
+# Fork the repository.
+- Create a new branch for your feature or bug fix: git checkout -b feature-name.
+- Commit your changes and push to your fork: git push origin feature-name.
+- Submit a pull request to the main repository.
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
